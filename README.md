@@ -1,4 +1,4 @@
-##Hi, I'm Maya, an <a href="https://github.com/MayaShimi311">IT Professional</a>☺</h1>
+<h2>Hi, I'm Maya, an <a href="https://github.com/MayaShimi311">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
